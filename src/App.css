@@ -49,3 +49,33 @@ img {
   align-items: center;
 }
 
+.btn-more-information {
+  background-color: rgba(125, 215, 255, 0.49);
+  border-radius: 25px;
+}
+
+.btn-more-information:hover {
+  color: black;
+  background-color: rgb(83, 255, 150);
+  border-radius: 25px;
+  box-shadow: 0 0 20px rgb(101, 213, 218);
+}
+
+.profil-details {
+  background-color: #3c504f;
+  border-radius: 20px;
+  width: 70px;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.profil-details:hover {
+  background-color: #3c504f;
+  border-radius: 20px;
+  width: 70px;
+  text-align: center;
+  color: whitesmoke;
+  box-shadow: 0 0 20px rgb(101, 213, 218);
+}
+
+
